@@ -1,6 +1,6 @@
 # Excercise from freeCode Camp website.
 
-My final work webpage: 
+My final work webpage: ...
 
 ## Responsive Web Design Projects - Build a Personal Portfolio Webpage
 
