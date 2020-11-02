@@ -1,0 +1,27 @@
+*|* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 2vh;
+    background-color: teal;
+}
+
+#welcome {
+    padding: 10vh;
+    height: 100vh;
+    background-color: ivory;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+/* User Story #9: My portfolio should have at least one media query. */
+/* User Story #10: The height of the welcome section should be equal to the height of the viewport. */
